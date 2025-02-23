@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: FLARE - Fault Logging and Assessment for Responsive EV Repairs
 ---
 
