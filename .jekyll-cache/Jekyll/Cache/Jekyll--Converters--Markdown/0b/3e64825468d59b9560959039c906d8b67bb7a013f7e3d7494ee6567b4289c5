@@ -1,5 +1,7 @@
-I"8<h1 id="flare-project"><strong>FLARE Project</strong></h1>
-<h3 id="fault-logging-and-assessment-for-responsive-ev-repairs"><strong>Fault Logging and Assessment for Responsive EV Repairs</strong></h3>
+I"4<h1 id="flare-project"><strong>FLARE Project</strong></h1>
+<div style="text-align: center; margin-bottom: 30px;">
+  <img src="/assets/images/FLARE_logo.png" alt="FLARE Logo" width="200" />
+</div>
 
 <p>The <strong>FLARE</strong> project aims to <strong>automate fault detection</strong> in EV charging stations using <strong>Semantic Segmentation</strong> and <strong>CNN-based Image Classification</strong>. By leveraging real-world data, we help identify charger malfunctions faster and improve maintenance response times.</p>
 

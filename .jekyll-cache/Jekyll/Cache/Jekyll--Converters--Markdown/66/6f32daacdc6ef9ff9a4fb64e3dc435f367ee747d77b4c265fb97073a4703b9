@@ -1,63 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>FLARE - Fault Logging and Assessment for Responsive EV Repairs</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 0;
-      text-align: center;
-    }
-    .container {
-      max-width: 800px;
-      margin: 50px auto;
-      padding: 20px;
-    }
-  </style>
-</head>
-<body>
-
-  <nav>
-    <ul>
-      <li><a href="/">🏠 Home</a></li>
-      <li><a href="/models">🔬 Models</a></li>
-      <li><a href="/results">📊 Results</a></li>
-      <li><a href="/prototype">📱 Prototype</a></li>
-    </ul>
-  </nav>
-  
-  <style>
-    nav {
-      background: #333;
-      padding: 10px;
-      text-align: center;
-    }
-    nav ul {
-      list-style: none;
-      padding: 0;
-      margin: 0;
-    }
-    nav ul li {
-      display: inline;
-      margin: 0 15px;
-    }
-    nav ul li a {
-      color: white;
-      text-decoration: none;
-      font-size: 18px;
-    }
-    nav ul li a:hover {
-      text-decoration: underline;
-    }
-  </style>
-  
-
-
-  <div class="container">
-    <h1 id="flare-project"><strong>FLARE Project</strong></h1>
+I"�<h1 id="flare-project"><strong>FLARE Project</strong></h1>
 <h3 id="fault-logging-and-assessment-for-responsive-ev-repairs"><strong>Fault Logging and Assessment for Responsive EV Repairs</strong></h3>
 
 <div style="text-align: center; margin-bottom: 30px;">
@@ -82,8 +23,4 @@
 
 <p>🚀 Our goal is to create <strong>a smarter, more reliable EV infrastructure!</strong></p>
 
-
-  </div>
-
-</body>
-</html>
+:ET
